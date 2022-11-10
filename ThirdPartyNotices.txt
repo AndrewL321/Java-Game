@@ -1,0 +1,13 @@
+Third-part software notices and information
+
+This project uses the following music under a cretive commons license https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+1.	RetroDetune-16bit (https://soundcloud.com/retro-detune/16-bit)
+16 Bit (Free Music) by Retro Detune is licensed under a Creative Commons License.
+
+
+
+2.	RetroDetune-ThatFunkyTune (https://soundcloud.com/retro-detune/that-funky-tune)
+That Funky Tune (Free Music) by Retro Detune is licensed under a Creative Commons License.
+
+Fix for xinitThreads crash used - https://stackoverflow.com/a/37478265

@@ -1,0 +1,1 @@
+javac -d out -cp lib/jsfml.jar src/Animations/Projectile/*.java src/Laser/*.java src/Level/*.java src/Main/*.java src/Menu/*.java src/Obstacles/*.java src/PowerUps/*.java src/Ships/*.java src/StatusScreens/*.java src/Utility/*.java
